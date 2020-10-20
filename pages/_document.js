@@ -15,7 +15,10 @@ class MyDocument extends Document {
             httpEquiv="Content-Type"
             content="text/html; charset=ISO-8859-1"
           />
-          <meta name="description" content="A webapp which's screen is black" />
+          <meta
+            name="description"
+            content="a webapp which's background is black"
+          />
 
           <meta property="og:type" content="website" />
           <meta
@@ -24,7 +27,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="A webapp which's screen is black"
+            content="a webapp which's background is black"
           />
           <meta property="og:url" content="https://black-screen.vercel.app/" />
           <meta name="twitter:card" content="summary_large_image" />
