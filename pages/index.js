@@ -1,7 +1,15 @@
+import Head from "next/head";
+
 export default function Home() {
   return (
-    <div>
-      <h1>White Background</h1>
-    </div>
+    <>
+      <Head>
+        <meta property="og:title" content="Black" />
+        <title>Black</title>
+      </Head>
+      <div>
+        <h1>Black Background</h1>
+      </div>
+    </>
   );
 }
