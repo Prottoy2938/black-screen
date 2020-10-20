@@ -1,3 +1,3 @@
-# Black Background
+# White Background
 
-A web application which's background color is black
+A web application which's background color is white

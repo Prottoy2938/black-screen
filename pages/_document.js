@@ -17,7 +17,7 @@ class MyDocument extends Document {
           />
           <meta
             name="description"
-            content="a webapp which's background is black"
+            content="A webapp which's background is white"
           />
 
           <meta property="og:type" content="website" />
@@ -27,13 +27,13 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="a webapp which's background is black"
+            content="A webapp which's background is white"
           />
-          <meta property="og:url" content="https://black-screen.vercel.app/" />
+          <meta property="og:url" content="https://white-screen.vercel.app/" />
           <meta name="twitter:card" content="summary_large_image" />
           <link rel="shortcut icon" href="/favicon.jpg" />
-          <meta property="og:title" content="Black" />
-          <title>Black</title>
+          <meta property="og:title" content="White" />
+          <title>White</title>
         </Head>
         <body>
           <Main />
