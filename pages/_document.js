@@ -18,13 +18,13 @@ class MyDocument extends Document {
           <meta name="description" content="A webapp which's screen is black" />
 
           <meta property="og:type" content="website" />
-          <meta property="og:image" content="https://iili.io/31s0cN.jpg" />
+          <meta property="og:image" content="/black-image.jpg" />
           <meta
             property="og:description"
             content="A webapp which's screen is black"
           />
           <meta name="twitter:card" content="summary_large_image" />
-          <link rel="shortcut icon" href="https://iili.io/31s1SI.jpg" />
+          <link rel="shortcut icon" href="/favicon.jpg" />
           <title>Black</title>
         </Head>
         <body>
