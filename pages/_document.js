@@ -17,9 +17,8 @@ class MyDocument extends Document {
           />
           <meta
             name="description"
-            content="A webapp which's background is black"
+            content="A web application that has a black background."
           />
-
           <meta property="og:type" content="website" />
           <meta
             property="og:image"
@@ -27,9 +26,9 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="A webapp which's background is black"
+            content="A web application that has a black background."
           />
-          <meta property="og:url" content="https://black-screen.vercel.app/" />
+          <meta property="og:url" content="https://black.edrini.xyz/" />
           <meta name="twitter:card" content="summary_large_image" />
           <link rel="shortcut icon" href="/favicon.jpg" />
         </Head>
